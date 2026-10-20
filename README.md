@@ -1,5 +1,6 @@
 # SdA 1 — El motor de FinanzApp
 
+**Alumna:** Antonia López Estrada
 **Materia:** Programación y Computación · 2º Bachillerato
 **Unidad:** A.1. Lenguajes de programación
 **Duración:** 12 sesiones (12 h)
