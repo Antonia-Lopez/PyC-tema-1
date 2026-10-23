@@ -8,7 +8,7 @@
     Sube el archivo a tu repositorio de Github"""
 
 nombre = input ("Ingrese su nombre : ")
-apellidos = input ("Ingrese su apellidos : ")
+apellidos = input ("Ingrese sus apellidos : ")
 saldo = float(input("Introduzca su saldo inicial : "))
 
 print (f"Nombre: {nombre}")
@@ -18,4 +18,4 @@ print (f"Saldo inicial: {saldo}")
 
 
 
-print("Bienvenido {nombre} {apellidos}, su saldo inicial {saldo:.2f} €")
+print(f"Bienvenido {nombre} {apellidos}, su saldo inicial {saldo:.2f} €")
