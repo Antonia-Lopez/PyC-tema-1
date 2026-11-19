@@ -16,7 +16,7 @@ while True:
     importes.append(importe)
 
 if not importes:
-    print("No se han introducido importes")
+    print("No se han introducido importes.")
 
 else:
     total = sum(importes)
